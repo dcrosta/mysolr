@@ -1,6 +1,10 @@
 Chages
 ======
 
+v 0.8.4
+-------
+- Don't depend on coveralls
+
 v 0.8.3
 -------
 - New utils module
